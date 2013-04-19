@@ -1,4 +1,4 @@
-2013-SAC-
+2013-SAC-project
 =========
 
 International Space Apps Challenge-2013  
